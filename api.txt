@@ -1,46 +1,46 @@
 [
     {
-        produto: "Fusca",
+        produto: "Poker 1",
         id: 1,
         imagem: "https://github.com/vagneraugus/imgs/blob/master/img1.jpg"
     },
     {
-        produto: "Carv�o",
+        produto: "Poker 2",
         id: 2,
         imagem: "https://github.com/vagneraugus/imgs/blob/master/img2.jpg"
     },
     {
-        produto: "Cerveja",
+        produto: "Poker 3",
         id: 3,
         imagem: "https://github.com/vagneraugus/imgs/blob/master/img3.jpg"
     },
     {
-        produto: "Farofa",
+        produto: "Poker 4",
         id: 4,
         imagem: "https://github.com/vagneraugus/imgs/blob/master/img4.jpg"
     },
     {
-        produto: "Farofa",
+        produto: "Poker 5",
         id: 5,
         imagem: "https://github.com/vagneraugus/imgs/blob/master/img5.jpg"
     },
     {
-        produto: "Farofa",
+        produto: "Poker 6",
         id: 6,
         imagem: "https://github.com/vagneraugus/imgs/blob/master/img6.jpg"
     },
     {
-        produto: "Farofa",
+        produto: "Poker 7",
         id: 7,
         imagem: "https://github.com/vagneraugus/imgs/blob/master/img7.jpg"
     },
     {
-        produto: "Farofa",
+        produto: "Poker 8",
         id: 8,
         imagem: "https://github.com/vagneraugus/imgs/blob/master/img7.jpg"
     },
     {
-        produto: "Farofa",
+        produto: "Poker 9",
         id: 9,
         imagem: "https://github.com/vagneraugus/imgs/blob/master/img7.jpg"
     }

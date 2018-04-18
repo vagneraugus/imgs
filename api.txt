@@ -2,46 +2,46 @@
     {
         wallpaper: "Poker 1",
         id: 1,
-        imagem: "https://github.com/vagneraugus/imgs/blob/master/1.jpg"
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/1.png"
     },
     {
         wallpaper: "Poker 2",
         id: 2,
-        imagem: "https://github.com/vagneraugus/imgs/blob/master/2.jpg"
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/2.png"
     },
     {
         wallpaper: "Poker 3",
         id: 3,
-        imagem: "https://github.com/vagneraugus/imgs/blob/master/3.jpg"
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/3.png"
     },
     {
         wallpaper: "Poker 4",
         id: 4,
-        imagem: "https://github.com/vagneraugus/imgs/blob/master/4.jpg"
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/4.png"
     },
     {
         wallpaper: "Poker 5",
         id: 5,
-        imagem: "https://github.com/vagneraugus/imgs/blob/master/5.jpg"
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/5.png"
     },
     {
         wallpaper: "Poker 6",
         id: 6,
-        imagem: "https://github.com/vagneraugus/imgs/blob/master/6.jpg"
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/6.png"
     },
     {
         wallpaper: "Poker 7",
         id: 7,
-        imagem: "https://github.com/vagneraugus/imgs/blob/master/7.jpg"
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/7.png"
     },
     {
         wallpaper: "Poker 8",
         id: 8,
-        imagem: "https://github.com/vagneraugus/imgs/blob/master/8.jpg"
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/8.png"
     },
     {
         wallpaper: "Poker 9",
         id: 9,
-        imagem: "https://github.com/vagneraugus/imgs/blob/master/9.jpg"
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/9.png"
     }
 ]

@@ -1,22 +1,37 @@
 [
-{
-produto: "Picanha",
-id: 1,
-imagem: "https://github.com/vagneraugus/imgs/blob/master/img1.jpg"
-},
-{
-produto: "Carvão",
-id: 2,
-imagem: "https://github.com/munifgebara/reactnative/raw/master/imagens/carvao.jpg"
-},
-{
-produto: "Cerveja",
-id: 3,
-imagem: "https://github.com/munifgebara/reactnative/raw/master/imagens/cerveja.jpg"
-},
-{
-produto: "Farofa",
-id: 4,
-imagem: "https://github.com/munifgebara/reactnative/raw/master/imagens/farofa.jpg"
-}
+    {
+        produto: "Picanha",
+        id: 1,
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/img1.jpg"
+    },
+    {
+        produto: "Carvï¿½o",
+        id: 2,
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/img2.jpg"
+    },
+    {
+        produto: "Cerveja",
+        id: 3,
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/img3.jpg"
+    },
+    {
+        produto: "Farofa",
+        id: 4,
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/img4.jpg"
+    },
+    {
+        produto: "Farofa",
+        id: 5,
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/img5.jpg"
+    },
+    {
+        produto: "Farofa",
+        id: 6,
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/img6.jpg"
+    },
+    {
+        produto: "Farofa",
+        id: 7,
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/img7.jpg"
+    }
 ]

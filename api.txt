@@ -1,6 +1,6 @@
 [
     {
-        produto: "Picanha",
+        produto: "Fusca",
         id: 1,
         imagem: "https://github.com/vagneraugus/imgs/blob/master/img1.jpg"
     },
@@ -32,6 +32,16 @@
     {
         produto: "Farofa",
         id: 7,
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/img7.jpg"
+    },
+    {
+        produto: "Farofa",
+        id: 8,
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/img7.jpg"
+    },
+    {
+        produto: "Farofa",
+        id: 9,
         imagem: "https://github.com/vagneraugus/imgs/blob/master/img7.jpg"
     }
 ]

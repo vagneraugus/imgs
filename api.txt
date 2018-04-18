@@ -1,47 +1,47 @@
 [
     {
-        produto: "Poker 1",
+        wallpaper: "Poker 1",
         id: 1,
-        imagem: "https://github.com/vagneraugus/imgs/blob/master/img1.jpg"
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/1.jpg"
     },
     {
-        produto: "Poker 2",
+        wallpaper: "Poker 2",
         id: 2,
-        imagem: "https://github.com/vagneraugus/imgs/blob/master/img2.jpg"
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/2.jpg"
     },
     {
-        produto: "Poker 3",
+        wallpaper: "Poker 3",
         id: 3,
-        imagem: "https://github.com/vagneraugus/imgs/blob/master/img3.jpg"
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/3.jpg"
     },
     {
-        produto: "Poker 4",
+        wallpaper: "Poker 4",
         id: 4,
-        imagem: "https://github.com/vagneraugus/imgs/blob/master/img4.jpg"
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/4.jpg"
     },
     {
-        produto: "Poker 5",
+        wallpaper: "Poker 5",
         id: 5,
-        imagem: "https://github.com/vagneraugus/imgs/blob/master/img5.jpg"
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/5.jpg"
     },
     {
-        produto: "Poker 6",
+        wallpaper: "Poker 6",
         id: 6,
-        imagem: "https://github.com/vagneraugus/imgs/blob/master/img6.jpg"
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/6.jpg"
     },
     {
-        produto: "Poker 7",
+        wallpaper: "Poker 7",
         id: 7,
-        imagem: "https://github.com/vagneraugus/imgs/blob/master/img7.jpg"
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/7.jpg"
     },
     {
-        produto: "Poker 8",
+        wallpaper: "Poker 8",
         id: 8,
-        imagem: "https://github.com/vagneraugus/imgs/blob/master/img7.jpg"
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/8.jpg"
     },
     {
-        produto: "Poker 9",
+        wallpaper: "Poker 9",
         id: 9,
-        imagem: "https://github.com/vagneraugus/imgs/blob/master/img7.jpg"
+        imagem: "https://github.com/vagneraugus/imgs/blob/master/9.jpg"
     }
 ]

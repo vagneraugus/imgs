@@ -1,6 +1,6 @@
 [
     {
-        wallpaper: "Poker 1",
+        wallpaper: "Poker1",
         id: 1,
         imagem: "https://raw.githubusercontent.com/vagneraugus/imgs/master/1.png"
     },
